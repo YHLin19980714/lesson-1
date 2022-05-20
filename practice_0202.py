@@ -8,7 +8,7 @@ Created on Mon Aug  9 11:17:53 2021
 
 
 y = 0
-for i in range(1,6):
-    x = input('Enter a number:')
+for i in range(1,6):     #i=1~5
+    x = 5
     y = y+int(x)
 print (f"the result = {y}")
